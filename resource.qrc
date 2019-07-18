@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Gun_Shot.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>alien.png</file>
+        <file>bg.jpg</file>
+        <file>projectile.png</file>
+        <file>ufo.png</file>
+    </qresource>
+</RCC>
